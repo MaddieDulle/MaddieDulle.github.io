@@ -2272,8 +2272,26 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
+h1 {
+  text-align: center;
+}    
+
+h2 {
+  text-align:center;
+}
+
+p {
+  text-indent: 25px;
+
+}
+
+
 
     .picture {
       max-width: 400px;
     
+    }
+
+    .title {
+      text-align: center;
     }
