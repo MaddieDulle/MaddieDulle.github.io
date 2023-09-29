@@ -2295,3 +2295,17 @@ p {
     .title {
       text-align: center;
     }
+
+    .buttonbig {
+      text-align: center;
+    }
+
+    figcaption {
+      text-align: center;
+      text-emphasis-style: italic;
+    }
+
+    .center-image img {
+      text-align: center; 
+
+    }
