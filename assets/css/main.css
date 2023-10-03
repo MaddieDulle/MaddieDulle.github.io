@@ -2272,17 +2272,30 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
-h1 {
-  text-align: center;
-}    
+/* End Template Style */
 
-h2 {
-  text-align:center;
-}
+/* Added Style Starts Here */
 
+  /* Heading Style Starts Here */   
+      h1 {
+        text-align: center;
+      }    
+
+      h2 {
+        text-align:center;
+      }
+
+  /* Paragraph Style Starts Here */ 
+      p {
+        text-align: justify;
+        text-indent: 25px;
+      }    
 p {
   text-indent: 25px;
 
+}
+.title {
+  text-align: center;
 }
 
 
