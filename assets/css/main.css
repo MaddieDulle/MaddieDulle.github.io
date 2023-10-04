@@ -2279,46 +2279,53 @@ button,
   /* Heading Style Starts Here */   
       h1 {
         text-align: center;
-      }    
+      }
+
+     
 
       h2 {
-        text-align:center;
+        text-align: center;
       }
 
   /* Paragraph Style Starts Here */ 
+
       p {
         text-align: justify;
         text-indent: 25px;
-      }    
-p {
-  text-indent: 25px;
+      }  
 
-}
-.title {
-  text-align: center;
-}
+      .description {
+        text-align: center;
+        text-indent: 0%;
+      }
 
+     .title {
+        text-align: center;
+      }
 
-
-    .picture {
-      max-width: 400px;
     
-    }
 
-    .title {
-      text-align: center;
-    }
-
-    .buttonbig {
-      text-align: center;
-    }
+  /* Image Style Starts Here */
 
     figcaption {
       text-align: center;
-      text-emphasis-style: italic;
+      font-style: italic;
+      color:#3d4449;
+      margin-top: 10px;
     }
 
     .center-image img {
       text-align: center; 
-
     }
+
+    .headshot {
+      max-width: 400px;
+    }
+
+/* Other Style Starts Here */
+
+    .buttonbig {
+        text-align: center;
+      }
+  
+    
