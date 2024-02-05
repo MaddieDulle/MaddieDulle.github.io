@@ -2322,6 +2322,12 @@ button,
       max-width: 400px;
     }
 
+    .mini-logo {
+      max-width: 100px;
+      align: center;
+      image-orientation: center;
+    }
+
 /* Other Style Starts Here */
 
     .buttonbig {
